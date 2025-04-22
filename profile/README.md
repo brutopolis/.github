@@ -1,3 +1,3 @@
 # brutopolis - the bruter project collection
 
-this organization is a collection of everything that is related to bruter's development, including the bruter itself, buxu, packages and such;
+this is a collection of everything that is related to bruter's development, including the bruter itself, buxu, packages and such;
