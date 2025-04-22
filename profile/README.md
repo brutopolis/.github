@@ -1,3 +1,3 @@
-# brutopolis - the bruter project collection
+# brutopolis
 
-this is a collection of everything that is related to bruter's development, including the bruter itself, buxu, packages and such;
+brutopolis is the home of the bruter project.
